@@ -1,0 +1,3 @@
+[submodule "info-area"]
+	path = info-area
+	url = https://github.com/ddcroft73/info-area.git
